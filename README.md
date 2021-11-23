@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @owospace
-- 👀 I’m interested in Information Technology (IT)
-- 🌱 I’m currently learning Japanese, English, Java- all of it..
-- 💞️ I’m looking to collaborate on literally anything with computers.
-- 📫 How to reach me: mail me@spce.moe
+- 👋 hi, i'm space.
+
+- 👀 I am interested in Information Technology (IT)
+- 🌱 I am experienced with System Administration, DevOps and Networking.
+- 💞️ I'm very happy to collaborate on literally anything to do with computers.
+
+- 📫 How to reach me: mail me@spce.moe or space#0002
 
 <!---
 owospace/owospace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
