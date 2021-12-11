@@ -13,7 +13,6 @@
 </a>
 
 ___
-<br></br>
 
 I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.<br>
 Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments!<br>
