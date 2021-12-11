@@ -19,8 +19,6 @@ Asides from programming, I enjoy listening to music (and very heavily reliant on
 
 Yes, I do like me a bit of astrology too.
 
-<br></br>
-
 - I'm currently working on: Minecraft @LunarCubeNetwork
 - I am learning: Vue and GraphQL.
 - I'm looking to collaborate on literally anything to do with computers.
