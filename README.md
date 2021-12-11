@@ -5,7 +5,7 @@
 </a>
 
 <a href="mailto:me@spce.moe">
-    <img alt="Discord" width="40px" src="hhttps://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fdiscord-icon.png&f=1&nofb=1">
+    <img alt="Discord" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fdiscord-icon.png&f=1&nofb=1">
 </a>
 
 <a href="mailto:me@spce.moe">
