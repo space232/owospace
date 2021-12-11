@@ -1,12 +1,12 @@
-Hellooo, i'm space !
-social links
+Hellooo, I'm Evan- aka space !
+mail / discord / matrix
 
-Hi, i'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.
+I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.
 Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments!
 
 Yes, I do like me a bit of astrology too.
 
-I'm currently working on: <project></project>
+I'm currently working on: Minecraft @LunarCubeNetwork
 I am learning: Vue and GraphQL.
 I'm looking to collaborate on literally anything to do with computers.
 You are welcome to ask me about anything, i'm happy to help.
@@ -20,6 +20,7 @@ My github stats
 
 powered by spce.moe
 
+![counter??](https://count.getloli.com/get/@owospace?theme=rule34)
 
   I work with computers.
 - 👋 hi, i'm space.
@@ -30,7 +31,7 @@ powered by spce.moe
 
 - 📫 How to reach me: mail me@spce.moe or space#0002
 
-![counter??](https://count.getloli.com/get/@owospace?theme=rule34)
+
 
 <!---
 owospace/owospace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
