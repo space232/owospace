@@ -12,6 +12,10 @@
     <img alt="Matrix" width="40px" src="https://matrix.org/images/matrix-logo.svg">
 </a>
 
+<a href="mailto:me@spce.moe">
+    <img alt="Steam" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F05%2FSteam_icon_logo_logotype.png&f=1&nofb=1">
+</a>
+
 ___
 
 I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.<br>
