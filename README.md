@@ -15,11 +15,10 @@
 ___
 <br></br>
 
-I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.
-Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments!
+I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.<br>
+Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments!<br>
 
 Yes, I do like me a bit of astrology too.
-
 
 <br></br>
 
@@ -32,9 +31,7 @@ Yes, I do like me a bit of astrology too.
 
 <br></br>
 ## Languages and Tools I use:
-<a href="">
-    <img alt="Vue" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdwglogo.com%2Fwp-content%2Fuploads%2F2017%2F09%2FVue_js_logo.png&f=1&nofb=1">
-</a>
+<a href=""><img alt="Vue" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdwglogo.com%2Fwp-content%2Fuploads%2F2017%2F09%2FVue_js_logo.png&f=1&nofb=1"></a>
 
 My github stats
 
@@ -42,18 +39,11 @@ powered by spce.moe
 
 ![counter??](https://count.getloli.com/get/@owospace?theme=rule34)
 
-  I work with computers.
-- 👋 hi, i'm space.
-
-- 👀 I am interested in Information Technology (IT)
-- 🌱 I am experienced with System Administration, DevOps and Networking.
-- 💞️ I'm very happy to collaborate on literally anything to do with computers.
-
-- 📫 How to reach me: mail me@spce.moe or space#0002
-
 
 
 <!---
 owospace/owospace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+no, you are special.
 --->
