@@ -1,5 +1,6 @@
 <br></br>
-### Hellooo, I'm Evan- aka space !
+# Hellooo, I'm Evan- aka space !
+<br></br>
 
 <a href="mailto:me@spce.moe">
     <img alt="Mail" width="50px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_571126.png&f=1&nofb=1">
@@ -13,12 +14,18 @@
     <img alt="Matrix" width="50px" src="https://matrix.org/images/matrix-logo.svg">
 </a>
 
+<br></br>
 ___
+<br></br>
 
-> I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.
-> Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments!
+I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.
+Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments!
 
 Yes, I do like me a bit of astrology too.
+
+<br></br>
+___
+<br></br>
 
 I'm currently working on: Minecraft @LunarCubeNetwork
 I am learning: Vue and GraphQL.
@@ -27,7 +34,7 @@ You are welcome to ask me about anything, i'm happy to help.
 Reach me@spce.moe
 Resume link?
 
-Languages and Tools I use:
+## Languages and Tools I use:
 images and shit
 
 My github stats
