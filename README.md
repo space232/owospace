@@ -1,8 +1,10 @@
-Hellooo, I'm Evan- aka space !
-mail / discord / matrix
+# Hellooo, I'm Evan- aka space !
+![mail](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_571126.png&f=1&nofb=1) ![discord](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fdiscord-icon.png&f=1&nofb=1) ![matrix](https://matrix.org/images/matrix-logo.svg)
 
-I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.
-Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments!
+___
+
+> I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.
+> Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments!
 
 Yes, I do like me a bit of astrology too.
 
