@@ -12,6 +12,7 @@
     <img alt="Matrix" width="50px" src="https://matrix.org/images/matrix-logo.svg">
 </a>
 
+___
 <br></br>
 
 I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.
@@ -19,7 +20,7 @@ Asides from programming, I enjoy listening to music (and very heavily reliant on
 
 Yes, I do like me a bit of astrology too.
 
-___
+
 <br></br>
 
 - I'm currently working on: Minecraft @LunarCubeNetwork
