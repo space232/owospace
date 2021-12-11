@@ -1,4 +1,4 @@
-# 👋 Hellooo, I'm Evan- aka space !
+### 👋 Hellooo, I'm Evan- aka space !
 
 <a href="mailto:me@spce.moe">
     <img alt="Mail" width="50px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_571126.png&f=1&nofb=1">
@@ -30,7 +30,7 @@ ___
 - Resume link?
 
 <br></br>
-## Languages and Tools I use:
+#### Languages and Tools I use:
 <a href="">
     <img alt="Vue" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdwglogo.com%2Fwp-content%2Fuploads%2F2017%2F09%2FVue_js_logo.png&f=1&nofb=1">
 </a>
