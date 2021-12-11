@@ -4,7 +4,14 @@
 <a href="mailto:me@spce.moe">
     <img alt="Mail" width="50px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_571126.png&f=1&nofb=1">
 </a>
-![mail]() ![discord](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fdiscord-icon.png&f=1&nofb=1) ![matrix](https://matrix.org/images/matrix-logo.svg)
+
+<a href="mailto:me@spce.moe">
+    <img alt="Discord" width="50px" src="hhttps://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fdiscord-icon.png&f=1&nofb=1">
+</a>
+
+<a href="mailto:me@spce.moe">
+    <img alt="Matrix" width="50px" src="https://matrix.org/images/matrix-logo.svg">
+</a>
 
 ___
 
