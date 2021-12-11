@@ -1,7 +1,7 @@
-### 👋 Hellooo, I'm Evan- aka space !
+### 👋 Hellooo, I'm [space](https://spce.moe) !
 
 <a href="mailto:me@spce.moe">
-    <img alt="Mail" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_571126.png&f=1&nofb=1">
+    <img align="center" alt="Mail" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_571126.png&f=1&nofb=1">
 </a>
 
 <a href="mailto:me@spce.moe">
@@ -23,7 +23,7 @@ Asides from programming, I enjoy listening to music (and very heavily reliant on
 
 Yes, I do like me a bit of astrology too.
 
-- ⌨️ I'm currently working on: Minecraft @LunarCubeNetwork
+- 👨‍💻 I'm currently working on: Minecraft @LunarCubeNetwork
 - 📝 I am learning: Vue and GraphQL.
 - 🧑‍🤝‍🧑 I'm looking to collaborate on literally anything to do with computers.
 - 💬 You are welcome to ask me about anything, i'm happy to help.
