@@ -1,23 +1,23 @@
 ### 👋 Hellooo, I'm [space](https://spce.moe) !
 
 <a href="mailto:me@spce.moe">
-    <img alt="Mail" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_571126.png&f=1&nofb=1">
+    <img alt="Mail" width="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_571126.png&f=1&nofb=1">
 </a>
 
 <a href="mailto:me@spce.moe">
-    <img alt="Discord" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fdiscord-icon.png&f=1&nofb=1">
+    <img alt="Discord" width="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fdiscord-icon.png&f=1&nofb=1">
 </a>
 
 <a href="mailto:me@spce.moe">
-    <img alt="Matrix" width="40px" src="https://matrix.org/images/matrix-logo.svg">
+    <img alt="Matrix" width="30px" src="https://matrix.org/images/matrix-logo.svg">
 </a>
 
 <a href="mailto:me@spce.moe">
-    <img alt="Steam" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F05%2FSteam_icon_logo_logotype.png&f=1&nofb=1">
+    <img alt="Steam" width="30px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F05%2FSteam_icon_logo_logotype.png&f=1&nofb=1">
 </a>
 
 <a href="mailto:me@spce.moe">
-    <img alt="Twitch" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.net-aware.org.uk%2Fsiteassets%2Fimages-and-icons%2Fapplication-icons%2Fapp-icons-twitch.png%3Fw%3D585%26scale%3Ddown&f=1&nofb=1">
+    <img alt="Twitch" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.net-aware.org.uk%2Fsiteassets%2Fimages-and-icons%2Fapplication-icons%2Fapp-icons-twitch.png%3Fw%3D585%26scale%3Ddown&f=1&nofb=1">
 </a>
 
 ___
