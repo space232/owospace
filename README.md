@@ -14,9 +14,6 @@
     <img alt="Matrix" width="50px" src="https://matrix.org/images/matrix-logo.svg">
 </a>
 
-<br></br>
-___
-
 I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.
 Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments!
 
