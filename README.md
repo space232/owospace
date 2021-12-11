@@ -31,7 +31,7 @@ Yes, I do like me a bit of astrology too.
 - Resume link?
 
 <br></br>
-#### Languages and Tools I use:
+## Languages and Tools I use:
 <a href="">
     <img alt="Vue" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdwglogo.com%2Fwp-content%2Fuploads%2F2017%2F09%2FVue_js_logo.png&f=1&nofb=1">
 </a>
