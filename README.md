@@ -17,20 +17,20 @@
 <br></br>
 ___
 
-I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like. |
-Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments! |
+I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.
+Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments!
 
 Yes, I do like me a bit of astrology too.
 
 ___
 <br></br>
 
-I'm currently working on: Minecraft @LunarCubeNetwork
-I am learning: Vue and GraphQL.
-I'm looking to collaborate on literally anything to do with computers.
-You are welcome to ask me about anything, i'm happy to help.
-Reach me@spce.moe
-Resume link?
+- I'm currently working on: Minecraft @LunarCubeNetwork
+- I am learning: Vue and GraphQL.
+- I'm looking to collaborate on literally anything to do with computers.
+- You are welcome to ask me about anything, i'm happy to help.
+- Reach me@spce.moe
+- Resume link?
 
 ## Languages and Tools I use:
 <a href="">
