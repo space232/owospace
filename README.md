@@ -22,7 +22,7 @@
 
 ___
 
-I'm a software developer (emoji) from the UK. Currently, I am working with Vue, Java and the like.<br>
+I'm a ⚙️ Software Developer 🇬🇧 from the UK. Currently, I am working with Vue, Java and the like.<br>
 Asides from programming, I enjoy listening to music (and very heavily reliant on which) and running experiments!<br>
 
 Yes, I do like me a bit of astrology too.
