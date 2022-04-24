@@ -1,12 +1,11 @@
 <h1>👋 heya, i'm space. </h1>
+![Discord (spce.moe/discord)](https://spce.moe/discord) | ![Mail me@spce.moe](mailto:me@spce.moe) | ![Matrix](@owospace:matrix.org)
 
 I work with computers.
 
 - 👀 I am interested in Information Technology (IT)
 - 🌱 I am experienced with System Administration, DevOps and Networking.
 - 💞️ I'm very happy to collaborate on literally anything to do with computers.
-
-- 📫 How to reach me: me@spce.moe, space#0002 or @owospace:matrix.org
 
 ![counter??](https://count.getloli.com/get/@owospace?theme=rule34)
 
