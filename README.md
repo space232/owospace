@@ -1,20 +1,12 @@
-<div class="amongus">
-  <h1>Among Us.</h1>
- </div>
- 
-<style>
-  .amongus {
-  color: #323232;
-  }
-</style>
-  
-- 👋 hi, i'm space.
+<h1>👋 heya, i'm space. </h1>
+
+I work with computers.
 
 - 👀 I am interested in Information Technology (IT)
 - 🌱 I am experienced with System Administration, DevOps and Networking.
 - 💞️ I'm very happy to collaborate on literally anything to do with computers.
 
-- 📫 How to reach me: mail me@spce.moe or space#0002
+- 📫 How to reach me: me@spce.moe, space#0002 or @owospace:matrix.org
 
 ![counter??](https://count.getloli.com/get/@owospace?theme=rule34)
 
