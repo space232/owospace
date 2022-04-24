@@ -1,6 +1,6 @@
 <h1>👋 heya, i'm space. </h1>
+<a href="https://spce.moe/discord">among us</a>
 ![Discord (spce.moe/discord)](https://spce.moe/discord) | ![Mail me@spce.moe](mailto:me@spce.moe) | ![Matrix](@owospace:matrix.org)
-[amongus](https://www.google.com)
 
 I work with computers.
 
