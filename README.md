@@ -10,6 +10,6 @@
 ![counter??](https://count.getloli.com/get/@owospace?theme=rule34)
 
 <!---
-owospace/owospace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+owospace/owospace is ✨ special ✨ because it appears on your GitHub profile.
+You can click the Preview link to take a look at your bals.
 --->
